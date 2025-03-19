@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.orgname.HenkelTest",
+               "sha256_cert_fingerprints": ["6A:02:84:9A:5C:04:71:9F:23:F6:3B:C9:44:7A:27:3F:0D:21:71:A0:B6:AF:A8:EE:F2:71:FD:AC:C7:F1:0F:0C"] }
+}]
